@@ -1,10 +1,10 @@
-
+Sistem Monitoring Stok dan Penjualan Kantin Kampus
 * **Nama Lengkap:** Ilham Rais
 * **NIM:** C2583207008
 * **Prodi:** Pendidikan Teknologi Informasi
 
 **Deskripsi Singkat**
-Sistem Monitoring Stok dan Penjualan Kantin Kampus adalah aplikasi berbasis console dalam bahasa C yang dirancang untuk menggantikan pencatatan manual di kantin kampus. Program ini memanfaatkan struktur data array (1D dan 2D) untuk menyimpan hingga 50 data produk, memproses transaksi pembelian multi-produk secara akurat, memperbarui stok otomatis, serta menyajikan laporan penjualan dan produk terlaris secara real-time.
+aplikasi berbasis console dalam bahasa C yang dirancang untuk menggantikan pencatatan manual di kantin kampus. Program ini memanfaatkan struktur data array (1D dan 2D) untuk menyimpan hingga 50 data produk, memproses transaksi pembelian multi-produk secara akurat, memperbarui stok otomatis, serta menyajikan laporan penjualan dan produk terlaris secara real-time.
 
 
 ## Screenshot Hasil Eksekusi
