@@ -3,8 +3,9 @@
 * **Nama Lengkap:** Ilham Rais
 * **NIM:** C2583207008
 * **Prodi:** Pendidikan Teknologi Informasi
-## Deskripsi Program
-Aplikasi berbasis *command-line interface* (CLI) dalam bahasa C ini dirancang untuk mempermudah operasional usaha penyewaan perlengkapan berkemah **Adventure Camp**. Program dibangun dengan pendekatan pemrograman terstruktur menggunakan fungsi dan *array* untuk menangani berbagai transaksi secara interaktif dalam satu kali sesi jalan.
+
+**Deskripsi Singkat**
+Sistem Monitoring Stok dan Penjualan Kantin Kampus adalah aplikasi berbasis console dalam bahasa C yang dirancang untuk menggantikan pencatatan manual di kantin kampus. Program ini memanfaatkan struktur data array (1D dan 2D) untuk menyimpan hingga 50 data produk, memproses transaksi pembelian multi-produk secara akurat, memperbarui stok otomatis, serta menyajikan laporan penjualan dan produk terlaris secara real-time.
 
 
 ## Screenshot Hasil Eksekusi
