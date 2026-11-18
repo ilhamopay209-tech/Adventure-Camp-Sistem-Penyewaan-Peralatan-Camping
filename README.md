@@ -1,4 +1,3 @@
-# Sistem Informasi Penyewaan Peralatan Camping (Adventure Camp)
 
 * **Nama Lengkap:** Ilham Rais
 * **NIM:** C2583207008
