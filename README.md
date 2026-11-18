@@ -2,7 +2,7 @@
 
 * **Nama Lengkap:** Ilham Rais
 * **NIM:** C2583207008
-* **Prodi** Pendidikan Teknologi Informasi
+* **Prodi:** Pendidikan Teknologi Informasi
 ## Deskripsi Program
 Aplikasi berbasis *command-line interface* (CLI) dalam bahasa C ini dirancang untuk mempermudah operasional usaha penyewaan perlengkapan berkemah **Adventure Camp**. Program dibangun dengan pendekatan pemrograman terstruktur menggunakan fungsi dan *array* untuk menangani berbagai transaksi secara interaktif dalam satu kali sesi jalan.
 
